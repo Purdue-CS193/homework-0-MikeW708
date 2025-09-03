@@ -1,4 +1,4 @@
-Michael's First CS193 Homework
+# Michael's First CS193 Homework
 
 - Learning how to use gitHub
 - Improving coding skills through CS 193
